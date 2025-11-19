@@ -1,2 +1,2 @@
-# symmetrical-broccoli
+# cs project
 sign language translator
